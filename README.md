@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MZPENTEST (Mohamed Zayed Ahmed).
 - 👀 I’m interested in . Cybersecurity and Machine Learning.
 - 🌱 I’m currently learning . Penetration Teasting and Machine Learning.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : mohamedzayedpentest007@gmail.com .
+- 📫 How to reach me : mozayedpentest007@gmail.com .
 
 <!---
 MZPENTEST/MZPENTEST is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
