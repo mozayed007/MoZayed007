@@ -5,7 +5,7 @@
 - 🏫  Undergraduate CIE Senior at UST Zewail City. 
 - 📫 How to reach me :  
                         - 📧 Academic contact: s-mohamedzayed@zewailcity.edu.eg 
-                        - 📧( Personal / Business ) contact : mozayedpentest007@gmail.com 
+                        - 📧 Personal / Business  contact : mozayedpentest007@gmail.com                                                                                    
                         - 📱 WhatsApp/ Mobile phone: +201284907633/+201111754709 .
                         - 🤝 LinkedIn: https://www.linkedin.com/in/mohamed-zayed-cie-2023/ .
 - 🤲 Hope I do something good...
