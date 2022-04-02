@@ -4,10 +4,10 @@
 - 🛠  I've Experience in Technical Support for Content Creators, Student Activities.
 - 🏫  Undergraduate CIE Senior at UST Zewail City. 
 - 📫 How to reach me :  
-                        - Academic: s-mohamedzayed@zewailcity.edu.eg
-                        - Personal Business :mozayedpentest007@gmail.com 
-                        - WhatsApp/ Mobile phone: +201284907633
-                        - LinkedIn: https://www.linkedin.com/in/mohamed-zayed-cie-2023/
+                        - 📧 Academic: s-mohamedzayed@zewailcity.edu.eg
+                        - 📧 Personal Business :mozayedpentest007@gmail.com 
+                        - 📱 WhatsApp/ Mobile phone: +201284907633
+                        - 🤝 LinkedIn: https://www.linkedin.com/in/mohamed-zayed-cie-2023/
 - 🤲 Hope I do something good...
 
 <!---
