@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mozayed007 (Mohamed Zayed Ahmed).
 - 👀 I’m interested in : Cybersecurity , Machine Learning and MMORPGs 🎮.
 - 🌱 I’m currently learning . Cybersecurity and Machine Learning.
-- 🛠  I've Experience in Technical Support , Freelancing, Student Activities.
+- 🛠  I've Experience in Technical Support , Freelancing.
 - 🏫  Undergraduate CIE Senior at UST Zewail City. 
 - 📫 How to reach me :  
                         - 📧 Academic contact: s-mohamedzayed@zewailcity.edu.eg 
