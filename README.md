@@ -2,7 +2,7 @@
 - 👀 I’m interested in : Cybersecurity , Machine Learning and MMORPGs 🎮.
 - 🌱 I’m currently learning . Cybersecurity and Machine Learning.
 - 🛠  I've Experience in Technical Support , Freelancing.
-- 🏫  Undergraduate CIE Senior at UST Zewail City. 
+- 🏫  Senior CIE Undergraduate at UST Zewail City. 
 - 📫 How to reach me :  
                         - 📧 Academic contact: s-mohamedzayed@zewailcity.edu.eg 
                         - 📧 Personal / Business  contact : mozayedpentest007@gmail.com                                                                                    
