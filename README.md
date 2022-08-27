@@ -9,6 +9,7 @@
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
+</br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mozayed007&layout=compact&theme=github_dark&hide=php,javascript,css,tsql,html,scss,makefile,shell,dockerfile)
 
