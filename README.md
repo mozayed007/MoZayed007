@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mozayed007 (Mohamed Zayed Ahmed).
+###👋 Hi, I’m @mozayed007 (Mohamed Zayed Ahmed).
 - 👀 I’m interested in : Cybersecurity , Machine Learning , anime and MMORPGs 🎮.
 - 🌱 I’m currently learning . Cybersecurity and Machine Learning.
 - 🛠  I've Experience in Technical Support , Freelancing.
@@ -7,8 +7,9 @@
                         - 📧 Academic contact: s-mohamedzayed@zewailcity.edu.eg  <br />
                         - 📧 Personal / Business  contact : mozayedpentest007@gmail.com       <br />   
  
- 
+ ### Contact me:
  [🕵️ Blog](https://portfolio.mo-zayed.tech/) | [🐦 Twitter](https://twitter.com/mozayed_2023) | [💻 Reddit](https://www.reddit.com/user/LordMZ) | [🤝 LinkedIn](https://www.linkedin.com/in/mohamed-zayed-cie-2023/)<br /> 
+ 
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
