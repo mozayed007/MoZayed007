@@ -2,8 +2,8 @@ name: Update badges
 
 on:
   schedule:
-    # Runs at 2am UTC
-    - cron: "0 2 * * *"
+    # Runs at 0am UTC every day
+    - cron: "0 0 * * *"
 jobs:
   update-readme:
     name: Update Readme with badges
@@ -11,5 +11,9 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: mozayed007/MoZayed007@main
-        with:       
-          CREDLY_USER: <mohamedz.ahmed> # optional, but default will use the same from githubmohamedz.ahmed
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMIT_MESSAGE: "My commit message to update badges"
+          CREDLY_SORT: POPULAR
+          CREDLY_USER: <mohamedz.ahmed> 
+ 
