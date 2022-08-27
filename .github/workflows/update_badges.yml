@@ -12,4 +12,4 @@ jobs:
       - name: Badges - Readme
         uses: mozayed007/MoZayed007@main
         with:       
-          CREDLY_USER: mohamedz.ahmed # optional, but default will use the same from githubmohamedz.ahmed
+          CREDLY_USER: <mohamedz.ahmed> # optional, but default will use the same from githubmohamedz.ahmed
