@@ -40,9 +40,10 @@
 <p align="left"><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mozayed007/MoZayed007/blob/main/devcard.svg" width="400" alt="Mo-Zayed's Dev Card"/></a></p> 
 <br />
 ---
+<br />
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=li2y5wg127wk16dldhvsqg7tr&unique={true|1|on|yes})
 
----
+
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 <!---
