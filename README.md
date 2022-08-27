@@ -9,7 +9,7 @@
  ---
  
  ### Contact me:
- [🕵️ Blog](https://portfolio.mo-zayed.tech/) | [🐦 Twitter](https://twitter.com/mozayed_2023) | [💻 Reddit](https://www.reddit.com/user/LordMZ) | [🤝 LinkedIn](https://www.linkedin.com/in/mohamed-zayed-cie-2023/)<br /> 
+ [📝 Blog](https://portfolio.mo-zayed.tech/) | [🐦 Twitter](https://twitter.com/mozayed_2023) | [💻 Reddit](https://www.reddit.com/user/LordMZ) | [🤝 LinkedIn](https://www.linkedin.com/in/mohamed-zayed-cie-2023/)<br /> 
  ---
  
 ### Languages and Tools:
