@@ -36,7 +36,7 @@
 
 ---
 <br/>
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=li2y5wg127wk16dldhvsqg7tr)
+![Spotify Recent](https://spotify-recently-played-readme.vercel.app/api?user=li2y5wg127wk16dldhvsqg7tr&unique={true|1|on|yes})
 
 ---
 <br /> 
