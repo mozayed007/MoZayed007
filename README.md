@@ -40,7 +40,7 @@
 
 
 ---
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=li2y5wg127wk16dldhvsqg7tr&cover_image=true&theme=default&bar_color=327830&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 
 <!--START_SECTION:badges-->
