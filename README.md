@@ -40,11 +40,13 @@
 
 
 ---
-
+<details>
+  <summary>:zap: Spotify Stats</summary>  
+  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=li2y5wg127wk16dldhvsqg7tr&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) 
-
+  
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=li2y5wg127wk16dldhvsqg7tr&unique=true)
-
+</details>  
 ---
 
 <!--START_SECTION:waka-->
