@@ -40,9 +40,16 @@
 
 
 ---
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=li2y5wg127wk16dldhvsqg7tr&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=li2y5wg127wk16dldhvsqg7tr&unique=true)
+<br />
+<p align="left">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=li2y5wg127wk16dldhvsqg7tr&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)</p>
+<p align="right">![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=li2y5wg127wk16dldhvsqg7tr&unique=true)</p>
 
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
