@@ -36,8 +36,8 @@
 
 ---
 
-<p align="left"><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mozayed007/MoZayed007/blob/main/devcard.svg" width="400" alt="Mo-Zayed's Dev Card"/></a></p> 
-
+<!---<p align="left"><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mozayed007/MoZayed007/blob/main/devcard.svg" width="400" alt="Mo-Zayed's Dev Card"/></a></p> 
+--->
 
 ---
 <details>
