@@ -51,7 +51,7 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&mozayed007&layout=compact&&theme=default&link="https://www.github.com/mozayed007/") 
+![Github Wakatime Stats]((https://github-readme-stats.vercel.app/api/wakatime?username=mozayed007&layout=compact&&theme=default&link="https://www.github.com/mozayed007/") 
 
 
 ---
