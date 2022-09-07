@@ -33,7 +33,7 @@
 <p align="left"><img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=mozayed007&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="mozayed007" /></p>
 <p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozayed007&layout=compact&theme=github_dark&hide=php,javascript,css,tsql,html,scss,makefile,shell,dockerfile&hide_border=true" alt="mozayed007"/></p> <br /> 
  </details>                         
-![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mozayed007) <br />
+![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mozayed007) 
 
 
 <!---<p align="left"><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mozayed007/MoZayed007/blob/main/devcard.svg" width="400" alt="Mo-Zayed's Dev Card"/></a></p> 
