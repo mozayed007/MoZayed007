@@ -51,6 +51,9 @@
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=li2y5wg127wk16dldhvsqg7tr&unique=true)
 </details> <br />
 
+---
+
+![tryhackme stats](https://raw.githubusercontent.com/mozayed007/mozayed007/master/assets/thm_propic.png)
 
 
 <!--START_SECTION:badges-->
