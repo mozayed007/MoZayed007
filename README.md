@@ -1,13 +1,13 @@
-***<p style="text-align: center;"> 👋 Hi, I’m @mozayed007 (Mohamed Zayed Ahmed). </p>*** <br />
+##  ***<p style="text-align: center;">  👋 Hi, I’m @mozayed007 (Mohamed Zayed Ahmed). </p>*** <br />
 
 
-- 👀 I’m interested in : Cybersecurity , Machine Learning , anime and MMORPGs 🎮.
+- 👀 I’m interested in : Cybersecurity , Machine Learning , (Anime ,MMORPGs, TFT ,  FPS 🎮).
 - 🌱 I’m currently learning . Cybersecurity and Machine Learning.
-- 🛠  I've Experience in Technical Support , Freelancing.
+- 🛠  I've Experience in Technical Support , Freelancing, Deep Learning.
 - 🏫  Senior CIE Undergraduate at UST Zewail City. 
 - 📫 How to reach me : <br />
-                        - 📧 Academic contact: s-mohamedzayed@zewailcity.edu.eg  <br />
-                        - 📧 Personal / Business  contact : mozayedpentest007@gmail.com       <br />   
+  <p style="text-align: left;">    - 📧 Academic contact: s-mohamedzayed@zewailcity.edu.eg </p>  <br/>
+   <p style="text-align: left;">   - 📧 Personal / Business  contact : mozayedpentest007@gmail.com </p>       <br />   
  ---
  
  ### Contact me:
@@ -53,8 +53,8 @@
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=li2y5wg127wk16dldhvsqg7tr&unique=true)
 </details> <br />
 
-![Spotify recently played by last.fm](https://pixel.chat/HHMB1IOr_ChTXzX/c13c7ee2-f305-44d6-9713-1c4f8f1e182d) <br />
 ---
+**THM Stats:**
 
 ![tryhackme stats](https://raw.githubusercontent.com/mozayed007/mozayed007/master/assets/thm_propic.png)
 
