@@ -38,12 +38,15 @@
 
 
 ---
-### 🕛 Wakatime :
+### 🕛 | Wakatime :
+<br />
+
 ![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mozayed007) 
 
 ---
 ### :fire: My Stats :
 <br />
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mozayed007&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
@@ -61,7 +64,9 @@
 --->
 
 ---
-### Spotify Stats :
+### 🎵 | Spotify Stats :
+<br />
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=li2y5wg127wk16dldhvsqg7tr&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) <br />
 
 <details>
