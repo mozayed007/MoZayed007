@@ -8,11 +8,6 @@
 - 📫 How to reach me : <br />
   <p style="text-align: left;">    - 📧 Academic contact: s-mohamedzayed@zewailcity.edu.eg </p>  <br/>
    <p style="text-align: left;">   - 📧 Personal / Business  contact : mozayedpentest007@gmail.com </p>       <br />   
- ---
- 
- ### Contact me:
- [📝 Blog](https://mozayed-f3e38.netlify.app) | [🐦 Twitter](https://twitter.com/MoZayedSenpai) | [💻 Reddit](https://www.reddit.com/user/LordMZ) | [🤝 LinkedIn](https://www.linkedin.com/in/mozayed007/)<br /> 
- ---
  
 ### Languages and Tools:
 
@@ -58,7 +53,13 @@
 
 ![tryhackme stats](https://raw.githubusercontent.com/mozayed007/mozayed007/master/assets/thm_propic.png)
 
+---
+ 
+ ### Contact me:
+ [📝 Blog](https://mozayed-f3e38.netlify.app) | [🐦 Twitter](https://twitter.com/MoZayedSenpai) | [💻 Reddit](https://www.reddit.com/user/LordMZ) | [🤝 LinkedIn](https://www.linkedin.com/in/mozayed007/)<br /> 
 
+---
+ 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 <!---
