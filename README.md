@@ -26,6 +26,7 @@
 
 ### :hammer_and_wrench: | Languages and Tools:
 <br />
+
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
@@ -34,9 +35,9 @@
 <img align="left" alt="Python" width="30px" src="./img/Python.svg" />
 <img align="left" alt="Linux" width="30px" src="./img/linux.svg" />
 <br />
-<br />
 
 ---
+### 🕛 Wakatime :
 ![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mozayed007) 
 
 ---
