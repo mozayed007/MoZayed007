@@ -11,7 +11,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=mozayed007&style=flat-square&color=blue" alt=""></p>
 </div> <br />
-
+### :man_technologist: | About Me: 
+<br />
 - 👀 I’m interested in : Cybersecurity , Machine Learning , (Anime ,MMORPGs, TFT ,  FPS 🎮).
 - 🌱 I’m currently learning . Cybersecurity and Machine Learning.
 - 🛠  I've Experience in Technical Support , Freelancing, Deep Learning.
@@ -20,8 +21,8 @@
 
 
 
-### Languages and Tools:
-
+### :hammer_and_wrench: | Languages and Tools:
+<br />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
@@ -36,7 +37,8 @@
 ![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mozayed007) 
 
 ---
-
+### :fire: My Stats :
+<br />
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mozayed007&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
