@@ -5,10 +5,7 @@
 - 🌱 I’m currently learning . Cybersecurity and Machine Learning.
 - 🛠  I've Experience in Technical Support , Freelancing, Deep Learning.
 - 🏫  Senior CIE Undergraduate at UST Zewail City. 
-- 📫 How to reach me : <br />
-  <p style="text-align: left;">    - 📧 Academic contact: s-mohamedzayed@zewailcity.edu.eg </p>  <br/>
-   <p style="text-align: left;">   - 📧 Personal / Business  contact : mozayedpentest007@gmail.com </p>       <br />   
- 
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
@@ -57,6 +54,10 @@
  
  ### Contact me:
  [📝 Blog](https://mozayed-f3e38.netlify.app) | [🐦 Twitter](https://twitter.com/MoZayedSenpai) | [💻 Reddit](https://www.reddit.com/user/LordMZ) | [🤝 LinkedIn](https://www.linkedin.com/in/mozayed007/)<br /> 
+ - 📫 How to reach me : <br />
+  <p style="text-align: left;">    - 📧 Academic contact: s-mohamedzayed@zewailcity.edu.eg </p>  <br/>
+   <p style="text-align: left;">   - 📧 Personal / Business  contact : mozayedpentest007@gmail.com </p>       <br />   
+ 
 
 ---
  
