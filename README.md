@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @mozayed007 (Mohamed Zayed Ahmed).
+<p style="text-align: center;"> ### 👋 Hi, I’m @mozayed007 (Mohamed Zayed Ahmed). </p>
 - 👀 I’m interested in : Cybersecurity , Machine Learning , anime and MMORPGs 🎮.
 - 🌱 I’m currently learning . Cybersecurity and Machine Learning.
 - 🛠  I've Experience in Technical Support , Freelancing.
