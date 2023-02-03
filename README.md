@@ -56,7 +56,7 @@
 <details>  
 <p align="left"><img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=mozayed007&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="mozayed007" /></p>
 <p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozayed007&layout=compact&theme=github_dark&hide=php,javascript,css,tsql,html,scss,makefile,shell,dockerfile&hide_border=true" alt="mozayed007"/></p>
-</details> <br /><br /><br /><br /><br /><br />
+</details> <br /><br /><br /><br /><br /><br /><br /><br />
 
 ---
 ### :musical_note: | Spotify Status : 
