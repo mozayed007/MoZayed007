@@ -53,17 +53,10 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mozayed007&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-<details>
-    
+<details>  
 <p align="left"><img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=mozayed007&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="mozayed007" /></p>
 <p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozayed007&layout=compact&theme=github_dark&hide=php,javascript,css,tsql,html,scss,makefile,shell,dockerfile&hide_border=true" alt="mozayed007"/></p>
-
- </details> <br />
-
-
-
-<!---<p align="left"><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mozayed007/MoZayed007/blob/main/devcard.svg" width="400" alt="Mo-Zayed's Dev Card"/></a></p> 
---->
+</details> <br />
 
 ---
 ### :musical_note: | Spotify Status : 
