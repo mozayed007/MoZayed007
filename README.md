@@ -46,6 +46,13 @@
 
 ![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mozayed007) 
 
+<details>  
+
+<figure><embed src="https://wakatime.com/share/@mozayed007/59f67f85-010a-4267-a9e6-50a27326c520.svg"></embed></figure>
+
+</details> <br /><br /><br />
+
+
 ---
 ### :fire: My Stats :
 <br />
