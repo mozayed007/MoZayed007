@@ -5,6 +5,7 @@
 <div id="badges">
 <p align="center">
 <a href="https://www.linkedin.com/in/mozayed007"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+ <a href="https://ko-fi.com/mozayed"><img src="https://img.shields.io/badge/Ko--fi-Support%20mozayed%20-hotpink?logo=kofi&logoColor=white" alt="ko-fi Badge"></a>
 ![ko-fi](https://img.shields.io/badge/Ko--fi-Support%20chaiNNer%20-hotpink?logo=kofi&logoColor=white)](https://ko-fi.com/T6T46KTTW)
 <a href="https://www.youtube.com/@mozayed">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
