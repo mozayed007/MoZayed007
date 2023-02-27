@@ -12,7 +12,7 @@
     
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mozayed007&style=flat-square&color=blue" alt=""> <br/>
-    <a href="https://ko-fi.com/mozayed"><img src="https://img.shields.io/badge/support_me_on_ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=f5f5f5" alt="ko-fi Badge"></a>
+    <a href="https://ko-fi.com/mozayed"><img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_stroke.png" alt="ko-fi Badge"></a>
 </p> 
 </div>
 <br />
