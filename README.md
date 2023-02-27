@@ -88,8 +88,8 @@
  ### Contact me:
  [📝 Blog](https://mozayed-f3e38.netlify.app) | [🐦 Twitter](https://twitter.com/MoZayedSenpai) | [💻 Reddit](https://www.reddit.com/user/LordMZ) | [🤝 LinkedIn](https://www.linkedin.com/in/mozayed007/)<br /> 
  - 📫 How to reach me : <br />
-  <p style="text-align: left;">    - 📧 Academic contact: s-mohamedzayed@zewailcity.edu.eg </p>  <br/>
-   <p style="text-align: left;">   - 📧 Personal / Business  contact : mozayedpentest007@gmail.com </p>       <br />   
+  <p style="text-align: center;">    - 📧 Academic contact: s-mohamedzayed@zewailcity.edu.eg </p>  <br/>
+   <p style="text-align: center;">   - 📧 Personal / Business  contact : mozayedpentest007@gmail.com </p>       <br />   
  
 
 ---
