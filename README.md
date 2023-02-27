@@ -9,8 +9,11 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
 <a href="https://twitter.com/MoZayedSenpai">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a></p> </br>
-<p align="center"><a href="https://ko-fi.com/mozayed"><img src="https://img.shields.io/badge/support_me_on_ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=f5f5f5" alt="ko-fi Badge"></a>
-<img src="https://komarev.com/ghpvc/?username=mozayed007&style=flat-square&color=blue" alt=""></p> 
+    
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=mozayed007&style=flat-square&color=blue" alt="">
+    <a href="https://ko-fi.com/mozayed"><img src="https://img.shields.io/badge/support_me_on_ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=f5f5f5" alt="ko-fi Badge"></a>
+</p> 
 </div>
 <br />
 
