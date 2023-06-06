@@ -30,7 +30,6 @@
 
 ---
 
-
 ### :hammer_and_wrench: | Languages and Tools:
 <br />
 <p align="left">
@@ -47,6 +46,8 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" alt="GitHub" width="40" height="40"/> </a>
 </p>
+
+
 ---
 
 
@@ -57,22 +58,19 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mozayed007&theme=dark&background=000000)](https://git.io/streak-stats) </br>
 
 
-
 <details>  
 <p align="left"><img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=mozayed007&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="mozayed007" /></p>
 <p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozayed007&layout=compact&theme=github_dark&hide=php,javascript,css,tsql,html,scss,makefile,shell,dockerfile&hide_border=true" alt="mozayed007"/></p> </br?
-
-</details> <br /><br /><br /><br /><br /><br /><br /><br />
+</details>
 
 ---
 ### 🕛 | Wakatime :
 <br />
 
 ![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mozayed007) 
-
 <details>  
 <img src="https://wakatime.com/share/@mozayed007/59f67f85-010a-4267-a9e6-50a27326c520.svg">
-</details> <br /><br /><br />
+</details> 
 
 ---
 ### :musical_note: | Spotify Status : 
