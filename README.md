@@ -84,7 +84,6 @@
   
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=li2y5wg127wk16dldhvsqg7tr&unique=true)
-
     
 </details> <br />
 
