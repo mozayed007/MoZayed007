@@ -28,11 +28,12 @@
 - 🏫  Senior CIE Undergraduate at UST Zewail City. <br />
 <br />
 
-
+---
 
 
 ### :hammer_and_wrench: | Languages and Tools:
 <br />
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 <p align="center">
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
@@ -46,7 +47,7 @@
 
 ---
 
----
+
 ### :fire: My Stats :
 <br />
 
