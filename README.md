@@ -62,8 +62,8 @@
 <p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozayed007&layout=compact&theme=github_dark&hide=php,javascript,css,tsql,html,scss,makefile,shell,dockerfile&hide_border=true" alt="mozayed007"/></p> </br?
 </details>
 </br>
-
-
+<br />
+</br>
 
 ---
 ### 🕛 | Wakatime :
