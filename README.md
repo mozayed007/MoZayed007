@@ -1,5 +1,5 @@
 
-**<h1 align="center">Hey there,I’m @mozayed007 (Mohamed Zayed Ahmed) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>**
+**<h1 align="left">Hey there,I’m  Mohamed Zayed Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>**
 <p align="center"><img src="https://media3.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=6c09b952a8e228564cf075141862157a36423c7e667945cc&rid=giphy.gif&ct=s" width="200"/></p> 
 
 <div id="badges">
@@ -51,7 +51,9 @@
 <br />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mozayed007&theme=dark&background=000000)](https://git.io/streak-stats) </br>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mozayed007" alt="mozayed007" /></a> </br>
+
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mozayed007" alt="mozayed007" /></a></p> </br>
+
 <details>  
 <p align="left"><img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=mozayed007&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="mozayed007" /></p>
 <p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozayed007&layout=compact&theme=github_dark&hide=php,javascript,css,tsql,html,scss,makefile,shell,dockerfile&hide_border=true" alt="mozayed007"/></p> </br?
