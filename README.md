@@ -52,10 +52,11 @@
 
 ### :fire: My Stats :
 <br />
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mozayed007" alt="mozayed007" /></a></p> </br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mozayed007&theme=dark&background=000000)](https://git.io/streak-stats) </br>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mozayed007" alt="mozayed007" /></a></p> </br>
+
 
 <details>  
 <p align="left"><img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=mozayed007&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="mozayed007" /></p>
