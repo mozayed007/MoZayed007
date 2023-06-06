@@ -24,7 +24,7 @@
 <br />
 - 👀 I’m interested in : Cybersecurity , Machine Learning , (Anime ,MMORPGs, TFT ,  FPS 🎮).<br />
 - 🌱 I’m currently learning . Cybersecurity and Machine Learning.<br />
-- 🛠  I've Experience in Technical Support , Freelancing, Deep Learning.<br />
+- 🛠  I've Experience in Technical Support , Freelancing, Deep Learning, Online Tutoring, NLP, LLMs.<br />
 - 🏫  Senior CIE Undergraduate at UST Zewail City. <br />
 <br />
 
