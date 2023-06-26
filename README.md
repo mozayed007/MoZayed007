@@ -85,11 +85,7 @@
 </details> <br />
 
 ---
-**THM Stats:**
 
-![tryhackme stats](https://raw.githubusercontent.com/mozayed007/mozayed007/master/assets/thm_propic.png)
-
----
  
  ### Contact me:
  [📝 Blog](https://portfolio.mozayed.me) | [🐦 Twitter](https://twitter.com/MoZayed007) | [🤝 LinkedIn](https://www.linkedin.com/in/mozayed007/)<br /> 
