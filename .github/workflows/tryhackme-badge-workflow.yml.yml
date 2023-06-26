@@ -11,8 +11,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: p4p1/tryhackme-badge-workflow@main
+      - uses: p4p1/tryhackme-badge-workflow@1.0.0
         with:
-          # Replace with your tryhackme username
-          username: "mozayed"
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+           username: "mozayed"
+           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+           image_path: "./assets/thm_propic.png"
+           committer_username: "thm-p4p1-bot"
+           committer_email: "p4p1@thm.bot"
+           commit_message: "Updated THM profile badge"
