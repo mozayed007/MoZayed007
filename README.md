@@ -28,6 +28,16 @@
 - 🏫  Senior CIE Undergraduate at UST Zewail City. <br />
 <br />
 
+
+---
+
+ 
+ ### Contact me:
+ [📝 Blog](https://portfolio.mozayed.me) | [🐦 Twitter](https://twitter.com/MoZayed007) | [🤝 LinkedIn](https://www.linkedin.com/in/mozayed007/)<br /> 
+ - 📫 How to reach me : <br />
+  <p style="text-align: center;">    - 📧 Academic contact: s-mohamedzayed@zewailcity.edu.eg </p>  <br/>
+   <p style="text-align: center;">   - 📧 Personal / Business  contact : mozayedpentest007@gmail.com </p>       <br />   
+</br>
 ---
 
 ### :hammer_and_wrench: | Languages and Tools:
@@ -87,14 +97,7 @@
     
 </details> <br />
 
----
 
- 
- ### Contact me:
- [📝 Blog](https://portfolio.mozayed.me) | [🐦 Twitter](https://twitter.com/MoZayed007) | [🤝 LinkedIn](https://www.linkedin.com/in/mozayed007/)<br /> 
- - 📫 How to reach me : <br />
-  <p style="text-align: center;">    - 📧 Academic contact: s-mohamedzayed@zewailcity.edu.eg </p>  <br/>
-   <p style="text-align: center;">   - 📧 Personal / Business  contact : mozayedpentest007@gmail.com </p>       <br />   
  
 
 ---
