@@ -82,7 +82,7 @@
 
 ![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mozayed007) 
 <details>  
-<img src="https://wakatime.com/share/@mozayed007/59f67f85-010a-4267-a9e6-50a27326c520.svg">
+<img src="https://wakatime.com/share/@mozayed007/59f67f85-010a-4267-a9e6-50a27326c520.svg" width="50%">
 </details> 
 
 ---
