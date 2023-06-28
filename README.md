@@ -61,8 +61,11 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mozayed007&hide_border=true&theme=tokyonight" alt="Streak Stats" width="47%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mozayed007&hide_border=true&theme=tokyonight" alt="Streak Stats" width="43%"/>
 </p>
 </br>
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mozayed007" alt="mozayed007" /></a></p> </br>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mozayed007" alt="mozayed007" /></a></p> 
+<br />
+
 ---
+
 ### 🕛 | Wakatime :
 <br />
 
