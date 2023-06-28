@@ -23,9 +23,9 @@
 
 <br />
 - 👀 I’m interested in : AI, Machine Learning, Cybersecurity, Strategic Development Techs (Gartner). <br />
-- 🏓 Hobbies: Anime , MMORPGs, TFT ,  FPS 🎮.
-- 🌱 I’m currently learning : Machine Learning, AI, NLP, CV, CyberSecurity.<br />
-- 🛠  I've Experience in Technical Support , Freelancing,  Online Tutoring, Machine / Deep Learning, NLP, LLMs.<br />
+- 🏓 Hobbies: Anime , MMORPGs, TFT ,  FPS 🎮. <br />
+- 🌱 I’m currently learning : Machine Learning, AI, NLP, CV, CyberSecurity. <br />
+- 🛠  I've Experience in Technical Support , Freelancing,  Online Tutoring, Machine / Deep Learning, NLP, LLMs. <br />
 - 🏫  Senior CIE Undergraduate at UST Zewail City. <br />
 <br />
 
