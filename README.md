@@ -53,10 +53,6 @@
 
 ### :fire: My Stats :
 <br />
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mozayed007" alt="mozayed007" /></a></p> </br>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mozayed007&theme=dark&background=000000)](https://git.io/streak-stats) </br>
- 
 </br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozayed007&hide_border=true&theme=tokyonight" alt="Top Languages" width="24%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -65,7 +61,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mozayed007&hide_border=true&theme=tokyonight" alt="Streak Stats" width="47%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mozayed007&hide_border=true&theme=tokyonight" alt="Streak Stats" width="43%"/>
 </p>
 </br>
-
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mozayed007" alt="mozayed007" /></a></p> </br>
 ---
 ### 🕛 | Wakatime :
 <br />
