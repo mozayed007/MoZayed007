@@ -105,12 +105,12 @@
 ### 😎| Badges
 
 [![An image of @mozayed007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mozayed007)](https://holopin.io/@mozayed007)
- 
+ <!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ---
  
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+
 <!---
 MZPENTEST/MZPENTEST is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
