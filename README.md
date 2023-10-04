@@ -103,10 +103,10 @@
 ---
 
 ### 😎| Badges
-
+<p />
 [![An image of @mozayed007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mozayed007)](https://holopin.io/@mozayed007)
 <br />
-
+</p>
 <h2> My Last Credly badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
 To see all the other badges are [here](https://www.credly.com/users/mozayed007/badges)
