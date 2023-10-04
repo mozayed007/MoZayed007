@@ -68,7 +68,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozayed007&hide_border=true&theme=tokyonight" alt="Top Languages" width="24%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mozayed007&hide_border=true&theme=tokyo-night" width="66%">
 <br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mozayed007&hide_border=true&theme=tokyonight" alt="Streak Stats" width="47%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mozayed007&hide_border=true&theme=tokyonight" alt="Streak Stats" width="43%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mozayed007&hide_border=true&theme=tokyonight" alt="Streak Stats" width="47%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mozayed007&hide_border=true&theme=tokyonight" alt="Streak Stats" width="43%"/> </br>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mozayed007&row=2&column=3&theme=onedark" alt="mozayed007" width="50%" />
 </p>
 </br>
