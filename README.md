@@ -105,7 +105,15 @@
 ### 😎| Badges
 
 [![An image of @mozayed007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mozayed007)](https://holopin.io/@mozayed007)
- <!--START_SECTION:badges-->
+<br />
+
+<h2> My Last Credly badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
+
+To see all the other badges are [here](https://www.credly.com/users/mozayed007/badges)
+
+<!--START_SECTION:badges-->
+[![Introduction to Cybersecurity, Cisco](https://images.credly.com/size/120x120/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/487f1395-6ec1-454b-8463-040e0f407a19)
+[![ISC2 Candidate](https://images.credly.com/size/120x120/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](https://www.credly.com/badges/b345603b-5c85-4f2e-99d4-18e09d347c27)
 <!--END_SECTION:badges-->
 
 ---
