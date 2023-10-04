@@ -12,6 +12,9 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          COMMIT_MESSAGE: "update badges"
+          COMMIT_MESSAGE: "updating credly badges"
           CREDLY_USER: <mohamedz.ahmed>
           CREDLY_SORT: RECENT
+          REPOSITORY: mozayed007/mozayed007
+          BADGE_SIZE: 120x120 # optional, 110x110 default
+          NUMBER_LAST_BADGES: 10
