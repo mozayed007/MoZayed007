@@ -102,13 +102,13 @@
 
 ---
 
-### 😎| Badges
+### 😎| Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="30">
 
 [![An image of @mozayed007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mozayed007)](https://holopin.io/@mozayed007)
 
 </br>
 
-<h4> My Last Credly badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h4>
+<h4> My Last Credly badges  </h4>
 
 To see all the other badges are [here](https://www.credly.com/users/mozayed007/badges)
 
