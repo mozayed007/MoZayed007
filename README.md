@@ -23,7 +23,8 @@
 - 👀 I’m interested in: AI, Machine Learning, Cybersecurity, and Strategic Development Techs (Gartner). <br />
 - 🏓 Hobbies: Anime, MMORPGs, TFT,  FPS 🎮. <br />
 - 🌱 I’m currently learning: Machine Learning, AI, NLP, CV, and Cybersecurity. <br />
-- 🛠  I've experience in Technical Support, Freelancing,  Online Tutoring, Machine / Deep Learning, NLP, and LLMs. <br />
+- 🛠 I've experience in Freelancing, Online Tutoring (Bachelors and Masters Students), ML/DL, NLP and LLMs, and Computer Vision. <br />
+- 🧠 Interested in Domain-Specialized AI development, I want to merge domain knowledge within AI Architectures to develop optimized and efficient AI solutions that won't cost thousands of households electricity usage. <br />
 - 🏫  Senior CIE Undergraduate at UST Zewail City. <br />
 <br />
 
