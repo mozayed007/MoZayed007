@@ -33,7 +33,8 @@
   
 - 🛠  I've experience in Freelancing,  Online Tutoring, Machine/Deep Learning, NLP, and LLMs.
   
-- 🧑🏻‍💻Currently missing with **Adapters** Checking LoRA, QLoRA,  Punica Multi-Tenant LoRA, experimenting Adapters customizations.  ( I think [LoRAx](https://predibase.com/) will be the next big thing)
+- 🧑🏻‍💻Currently missing with **Adapters** Checking LoRA, QLoRA,  Punica Multi-Tenant LoRA, experimenting Adapters customizations.
+	- ( I think [LoRAx](https://predibase.com/) will be the next big thing)
 	  
 - 🧠 Interested in Domain-Specialized AI development:
 	 - I want to merge domain knowledge within AI Architectures to develop optimized and efficient AI solutions that won't cost thousands of households electricity usage.
