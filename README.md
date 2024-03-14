@@ -22,12 +22,14 @@
 ### :man_technologist: | About Me: 
 
 <br />
+
+
 - 🏓 Hobbies:
 	-  Reading Research Papers, / Watching Podcasts and Interviews.
 	-  Blogging / Writing Notes on Obsidian on my Hidden Vault. 🥷🏻
 	-  Anime, MMORPGs, TFT,  FPS 🎮.
 	  
--  🌱 I’m currently learning: Machine Learning, AI, NLP, CV, and (Cybersecurity ( ***self-study*** ) ).
+- 🌱 I’m currently learning: Machine Learning, AI, NLP, CV, and (Cybersecurity ( ***self-study*** ) ).
   
 - 🛠  I've experience in Freelancing,  Online Tutoring, Machine/Deep Learning, NLP, and LLMs.
   
