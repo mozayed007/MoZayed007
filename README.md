@@ -1,19 +1,21 @@
 
-**<h1 align="left">Hi, I’m  Mohamed Zayed Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>**
-<p align="center"><img src="https://media3.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=6c09b952a8e228564cf075141862157a36423c7e667945cc&rid=giphy.gif&ct=s" width="200"/></p> 
+# **ヾ(￣ ▽ ￣)**
+ 
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&pause=1000&random=true&width=435&lines=+Hi+there!+I'm+MoZayed+%F0%9F%91%8B.)                              
+<p align="center"><img src="https://media3.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=6c09b952a8e228564cf075141862157a36423c7e667945cc&rid=giphy.gif&ct=s" width="150"/></p>
 
 <div id="badges">
 <p align="center">
 <a href="https://www.linkedin.com/in/mozayed007"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://twitter.com/MoZayed007"> 
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a></p> 
-    
+<a href="https://twitter.com/MoZayed007">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a></p>
+
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mozayed007&style=flat-square&color=blue" alt=""> <br/>
     <a href="https://ko-fi.com/mozayed"><img src="https://storage.ko-fi.com/cdn/brandasset/kofi_s_tag_dark.png"  width=" 150" height="60"  alt="ko-fi Badge"></a>
-</p> 
+</p>
 </div>
-<br />
+
 
 
 
