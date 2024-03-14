@@ -22,7 +22,7 @@
 ### :man_technologist: | About Me: 
 
 <br />
--  🏓 Hobbies:
+- 🏓 Hobbies:
 	-  Reading Research Papers, / Watching Podcasts and Interviews.
 	-  Blogging / Writing Notes on Obsidian on my Hidden Vault. 🥷🏻
 	-  Anime, MMORPGs, TFT,  FPS 🎮.
