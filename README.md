@@ -24,10 +24,6 @@
 <br />
 
 
-- 🏓 Hobbies:
-	-  Reading Research Papers, / Watching Podcasts and Interviews.
-	-  Blogging / Writing Notes on Obsidian on my Hidden Vault. 🥷🏻
-	-  Anime, MMORPGs, TFT,  FPS 🎮.
 	  
 - 🌱 I’m currently learning: Machine Learning, AI, NLP, CV, and (Cybersecurity ( ***self-study*** ) ).
   
@@ -40,6 +36,11 @@
 	 - I want to merge domain knowledge within AI Architectures to develop optimized and efficient AI solutions that won't cost thousands of households electricity usage.
 	   
 - 🏫  Senior CIE Undergraduate at UST Zewail City.
+
+- 🏓 Hobbies:
+	-  Reading Research Papers, / Watching Podcasts and Interviews.
+	-  Blogging / Writing Notes on Obsidian on my Hidden Vault. 🥷🏻
+	-  Anime, MMORPGs, TFT,  FPS 🎮.
 <br />
 
 
