@@ -51,7 +51,7 @@
  [📝 Blog](https://mozayed007.github.io/mozayed-blog) | [🐦 Twitter](https://twitter.com/MoZayed007) | [🤝 LinkedIn](https://www.linkedin.com/in/mozayed007/)<br /> 
  - 📫 How to reach me : </br>
   <p align="center" style="text-align: center;">    - 📧 Academic contact: s-mohamedzayed@zewailcity.edu.eg </p>  </br>
-   <p align="center " style="text-align: center;">   - 📧 Personal / Business  contact : mohamedzayedpentest007@gmail.com </p>  </br>      
+   <p align="center " style="text-align: center;">   - 📧 Personal / Business  contact : moh.z.ahmed007@gmail.com </p>  </br>      
 </br>
 
 ---
