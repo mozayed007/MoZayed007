@@ -27,23 +27,26 @@
 	  
 - 🌱 I’m currently learning: Machine Learning, AI, NLP, CV, and (Cybersecurity ( ***self-study*** ) ).
   
-- 🛠  I've experienced  Freelancing,  Online Tutoring, Machine/Deep Learning, NLP, and LLMs.
+- 🛠  I've experienced  Freelancing,  Online Tutoring, and working on Machine/Deep Learning, NLP, and LLMs projects as a contractor.
   
 - 🧑🏻‍💻Currently missing with **Adapters** Checking LoRA, QLoRA,  Punica Multi-Tenant LoRA, experimenting Adapters customizations.
 	
 	  
-- 🧠 Interested in Domain-Specialized AI development:
-	 - I want to merge domain knowledge within AI Architectures to develop optimized and efficient AI solutions that won't cost thousands of households electricity usage.
-	   
-- 🏫  Senior CIE Undergraduate at UST Zewail City.
+- 🧠 Interested in:
+	- Domain-Specialized AI development:
+		- I want to merge domain knowledge within ML Architectures to develop optimized and efficient AI solutions that won't cost thousands of households electricity usage.
+
+	- Integration of AI and Cybersecurity:
+		- Whether it's the security/privacy of AI and its solutions or integration of AI in the cybersecurity domain itself.
+ 	
+	- Interpretability and Alignment of AI :
+		- Anthropic fan in those areas.  
 
 - 🏓 Hobbies:
 	-  Reading Research Papers, / Watching Podcasts and Interviews.
 	-  Blogging / Writing Notes on Obsidian on my Hidden Vault. 🥷🏻
 	-  Anime, MMORPGs, TFT,  FPS 🎮.
 <br />
-
-
 ---
 
  
