@@ -25,12 +25,11 @@
 
 
 	  
-- 🌱 I’m currently learning: Machine Learning, AI, NLP, CV, and (Cybersecurity ( ***self-study*** ) ).
+- 🌱 I’m currently pursuing: Machine Learning Engineering, and (Cybersecurity ( ***self-study*** ) ).
   
 - 🛠  I've experienced  Freelancing,  Online Tutoring, and working on Machine/Deep Learning, NLP, and LLMs projects as a contractor.
   
-- 🧑🏻‍💻Currently missing with **Adapters** Checking LoRA, QLoRA,  Punica Multi-Tenant LoRA, experimenting Adapters customizations.
-	
+- 🧑🏻‍💻Currently experimenting with PEFT algorithms in domains other than NLP like Computer Vision applications, embedding vector store applications (recommendation engines, RAGs, ..etc.), benchmarking and evaluation systems for domain-specific problems.
 	  
 - 🧠 Interested in:
 	- Domain-Specialized AI development:
