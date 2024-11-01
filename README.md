@@ -32,7 +32,7 @@
 	  
 - 🧠 Interested in:
 	- Domain-Specialized AI development:
-		- I want to merge domain knowledge within ML Architectures to develop optimized and efficient AI solutions that won't cost thousands of households electricity usage.
+		- I want to merge domain knowledge within ML to develop optimized and efficient AI solutions that won't cost thousands of households electricity usage.
 
 	- Integration of AI and Cybersecurity:
 		- Whether it's the security/privacy of AI and its solutions or integration of AI in the cybersecurity domain itself.
@@ -42,7 +42,7 @@
 
 - 🏓 Hobbies:
 	-  Reading Research Papers, / Watching Podcasts and Interviews.
-	-  Blogging / Writing Notes on Obsidian on my Hidden Vault. 🥷🏻
+	-  Blogging / Writing Notes on Obsidian on my Hidden Vault. 
 	-  Anime, MMORPGs, TFT,  FPS 🎮.
 <br />
 ---
