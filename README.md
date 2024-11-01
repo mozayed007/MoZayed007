@@ -28,7 +28,7 @@
   
 - 🛠  I've experienced  Freelancing,  Online Tutoring, and working on Machine/Deep Learning, NLP, and LLMs projects as a contractor.
   
-- 🧑🏻‍💻Currently experimenting with PEFT algorithms in domains other than NLP like Computer Vision applications, embedding vector store applications (recommendation engines, RAGs, ..etc.), benchmarking and evaluation systems for domain-specific problems.
+- 🧑🏻‍💻Currently experimenting with PEFT algorithms in domains other than NLP like Computer Vision applications, embedding vector store applications (recommendation engines, RAGs, ..etc.), benchmarking and evaluation systems for domain-specific problems, and representation systems for different types of data."To vector store, or to knowledge graph, maybe another novel representation".
 	  
 - 🧠 Interested in:
 	- Domain-Specialized AI development:
