@@ -93,11 +93,10 @@
 ---
 ### :musical_note: | Spotify Status : 
 
-<div style="display: flex; justify-content: center; align-items: center; height: 400px;">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=li2y5wg127wk16dldhvsqg7tr&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" style="max-height: 100%; margin-right: 10px;">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=li2y5wg127wk16dldhvsqg7tr&unique=true" alt="Spotify recently played" style="max-height: 100%; margin-left: 10px;">
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px;">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=li2y5wg127wk16dldhvsqg7tr&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" style="height: 400px;">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=li2y5wg127wk16dldhvsqg7tr&unique=true" alt="Spotify recently played" style="height: 400px;">
 </div>
-
     
 <br />
 
