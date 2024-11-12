@@ -42,15 +42,6 @@
 
 ---
 
-
- ### Contact me:
- [📝 Blog](https://mozayed007.github.io/mozayed-blog) | [🐦 X](https://x.com/MoZayed007) | [🤝 LinkedIn](https://www.linkedin.com/in/mozayed007/)<br /> 
- - 📫 How to reach me : </br>
-	<p align="center " style="text-align: center;">   - 📧 Personal / Business  contact : moh.z.ahmed007@gmail.com </p>  </br> 
-	<p align="center" style="text-align: center;">    - 📧 Academic contact: s-mohamedzayed@zewailcity.edu.eg </p>  </br>
-
----
-
 ### :hammer_and_wrench: | Languages and Tools:
 <br />
 <p align="left">
@@ -67,6 +58,13 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" alt="GitHub" width="40" height="40"/> </a>
 </p>
 
+---
+
+ ### Contact me:
+ [📝 Blog](https://mozayed007.github.io/mozayed-blog) | [🐦 X](https://x.com/MoZayed007) | [🤝 LinkedIn](https://www.linkedin.com/in/mozayed007/)<br /> 
+ - 📫 How to reach me : </br>
+	<p align="center " style="text-align: center;">   - 📧 Personal / Business  contact : moh.z.ahmed007@gmail.com </p>  </br> 
+	<p align="center" style="text-align: center;">    - 📧 Academic contact: s-mohamedzayed@zewailcity.edu.eg </p>  </br>
 
 ---
 
