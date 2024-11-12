@@ -38,8 +38,8 @@
 		- Anthropic fan in those areas.
 
 	- Integration of AI and Cybersecurity:
-		- Whether it's the security/privacy of AI and its solutions or integration of AI in the cybersecurity domain itself.
-<br />
+		- Whether it's the security/privacy of AI and its solutions or integration of AI in the cybersecurity domain itself.<br />
+
 ---
 
 
