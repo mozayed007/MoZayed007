@@ -24,36 +24,30 @@
 
 
 	  
-- 🌱 I’m currently pursuing: Machine Learning Engineering, and (Cybersecurity ( ***self-study*** ) ).
+- 🌱 I’m currently pursuing: Machine Learning Engineering, Research Engineering.
   
 - 🛠  I've experienced  Freelancing,  Online Tutoring, and working on Machine/Deep Learning, NLP, and LLMs projects as a contractor.
   
-- 🧑🏻‍💻Currently experimenting with PEFT algorithms in domains other than NLP like Computer Vision applications, embedding vector store applications (recommendation engines, RAGs, ..etc.), benchmarking and evaluation systems for domain-specific problems, and representation systems for different types of data."To vector store, or to knowledge graph, maybe another novel representation".
+- 🧑🏻‍💻Currently experimenting with PEFT algorithms in domains other than NLP like Computer Vision applications, embedding vector store applications (recommendation engines, RAGs, ..etc.), benchmarking and evaluation systems for domain-specific problems, and representation systems for different types of data."To the vector store, or the knowledge graph, maybe both, maybe another novel representation".
 	  
 - 🧠 Interested in:
 	- Domain-Specialized AI development:
-		- I want to merge domain knowledge within ML to develop optimized and efficient AI solutions that won't cost thousands of households electricity usage.
+		- I want to merge domain knowledge of the problem within ML to develop optimized and efficient ML solutions that won't cost thousands of households electricity usage
+ 	
+	- Interpretability and Alignment of AI :
+		- Anthropic fan in those areas.
 
 	- Integration of AI and Cybersecurity:
 		- Whether it's the security/privacy of AI and its solutions or integration of AI in the cybersecurity domain itself.
- 	
-	- Interpretability and Alignment of AI :
-		- Anthropic fan in those areas.  
-
-- 🏓 Hobbies:
-	-  Reading Research Papers, / Watching Podcasts and Interviews.
-	-  Blogging / Writing Notes on Obsidian on my Hidden Vault. 
-	-  Anime, MMORPGs, TFT,  FPS 🎮.
 <br />
 ---
 
- 
+
  ### Contact me:
- [📝 Blog](https://mozayed007.github.io/mozayed-blog) | [🐦 Twitter](https://twitter.com/MoZayed007) | [🤝 LinkedIn](https://www.linkedin.com/in/mozayed007/)<br /> 
+ [📝 Blog](https://mozayed007.github.io/mozayed-blog) | [🐦 X](https://x.com/MoZayed007) | [🤝 LinkedIn](https://www.linkedin.com/in/mozayed007/)<br /> 
  - 📫 How to reach me : </br>
-  <p align="center" style="text-align: center;">    - 📧 Academic contact: s-mohamedzayed@zewailcity.edu.eg </p>  </br>
-   <p align="center " style="text-align: center;">   - 📧 Personal / Business  contact : moh.z.ahmed007@gmail.com </p>  </br>      
-</br>
+	<p align="center " style="text-align: center;">   - 📧 Personal / Business  contact : moh.z.ahmed007@gmail.com </p>  </br> 
+	<p align="center" style="text-align: center;">    - 📧 Academic contact: s-mohamedzayed@zewailcity.edu.eg </p>  </br>
 
 ---
 
