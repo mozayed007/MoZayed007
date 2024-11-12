@@ -70,10 +70,18 @@
 
 ---
 
+### 🕛 | Wakatime :
+<br />
+
+![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mozayed007) 
+<details>  
+<img src="https://wakatime.com/share/@mozayed007/59f67f85-010a-4267-a9e6-50a27326c520.svg" width="50%">
+</details> 
+
+---
 
 ### :fire: My Stats :
 <br />
-</br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozayed007&hide_border=true&theme=tokyonight" alt="Top Languages" width="24%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mozayed007&hide_border=true&theme=tokyo-night" width="66%">
@@ -82,19 +90,7 @@
  </br>
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mozayed007&row=2&column=4&theme=onedark" alt="mozayed007" width="40%" />
-</p>
-</br>
-
-
----
-
-### 🕛 | Wakatime :
-<br />
-
-![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mozayed007) 
-<details>  
-<img src="https://wakatime.com/share/@mozayed007/59f67f85-010a-4267-a9e6-50a27326c520.svg" width="50%">
-</details> 
+</p></br>
 
 ---
 ### :musical_note: | Spotify Status : 
