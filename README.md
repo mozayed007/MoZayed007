@@ -89,7 +89,7 @@
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mozayed007&row=2&column=4&theme=onedark" alt="mozayed007" width="40%" />
 </p></br>
-[![roadmap.sh](https://roadmap.sh/card/tall/6777e95170129741a8039993?variant=dark)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6777e95170129741a8039993?variant=dark" alt="roadmap.sh"/></a>
 </br>
 ---
 
