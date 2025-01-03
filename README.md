@@ -94,7 +94,7 @@
     <img src="https://roadmap.sh/card/tall/6777e95170129741a8039993?variant=dark" alt="roadmap.sh"/>
   </a>
 </div>
-</br>
+
 ---
 
 ### :musical_note: | Spotify Status : 
