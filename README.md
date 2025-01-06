@@ -80,6 +80,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mozayed007&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)
 
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=mozayed007&theme=github-dark-blue&mode=weekly" alt="GitHub Streak Stats Fallback" />
+</a>
+
 <br><br>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -87,6 +91,7 @@
 </a>
 
 </div>
+
 
 ---
 ### 🕛 | Wakatime :
