@@ -84,8 +84,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozayed007&hide_border=true&theme=tokyonight" alt="Top Languages" width="24%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mozayed007&hide_border=true&theme=tokyo-night" width="66%">
 <br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mozayed007&theme=github-dark-blue&mode=weekly" alt="GitHub Streak" /></a>
-</br>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mozayed007&theme=github-dark-blue&mode=weekly" alt="GitHub Streak" /></a><br>
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mozayed007&row=2&column=4&theme=onedark" alt="mozayed007" width="40%" />
 </p></br>
