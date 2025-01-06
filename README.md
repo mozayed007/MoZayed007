@@ -80,9 +80,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mozayed007&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=mozayed007&theme=github-dark-blue&mode=weekly" alt="GitHub Streak Stats Fallback" />
-</a>
+<img alt="GitHub Readme Streak Stats" src="preview.php?user=mozayed007&amp;theme=github-dark-blue&amp;mode=weekly" style="display: block;">
 
 <br><br>
 
