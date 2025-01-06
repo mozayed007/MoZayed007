@@ -68,16 +68,6 @@
 
 ---
 
-### 🕛 | Wakatime :
-<br />
-
-![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mozayed007) 
-<details>  
-<img src="https://wakatime.com/share/@mozayed007/59f67f85-010a-4267-a9e6-50a27326c520.svg" width="50%">
-</details> 
-
----
-
 ### 🔥 My Stats:
 
 <div align="center">
@@ -88,9 +78,7 @@
 
 <br><br>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=mozayed007&theme=github-dark-blue&mode=weekly" alt="GitHub Streak" width="50%" />
-</a>
+<img src="https://streak-stats.demolab.com?user=mozayed007&theme=github-dark-blue&mode=weekly" alt="GitHub Streak" width="50%" />
 
 <br><br>
 
@@ -101,7 +89,14 @@
 </div>
 
 ---
+### 🕛 | Wakatime :
+<br>
+![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mozayed007) 
+<details>  
+<img src="https://wakatime.com/share/@mozayed007/59f67f85-010a-4267-a9e6-50a27326c520.svg" width="50%">
+</details> 
 
+---
 ### :musical_note: | Spotify Status : 
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px;">
