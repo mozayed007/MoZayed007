@@ -78,7 +78,7 @@
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=mozayed007&theme=github-dark-blue&mode=weekly" alt="GitHub Streak" width="50%" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=mozayed007&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)
 
 <br><br>
 
