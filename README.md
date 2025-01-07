@@ -80,8 +80,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mozayed007&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)
 
-<img alt="GitHub Readme Streak Stats" src="preview.php?user=mozayed007&amp;theme=github-dark-blue&amp;mode=weekly" style="display: block;">
-
 <br><br>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
