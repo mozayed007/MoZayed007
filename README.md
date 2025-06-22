@@ -30,15 +30,33 @@
   
 - 🧑🏻‍💻Currently experimenting with PEFT algorithms in domains other than NLP like Computer Vision applications, GenAI applications (recommendation Sys, RAGs, ..etc.), benchmarking and evaluation systems for domain-specific problems, and representation systems for different types of data."To the vector store, or the knowledge graph, maybe both, maybe another novel representation".
 	  
-- 🧠 Interested in:
-	- Domain-Specialized AI development:
-		- I want to merge domain knowledge of the problem within ML to develop optimized and efficient ML solutions that won't cost thousands of households electricity usage.
- 	
-	- Interpretability and Alignment of AI :
-		- Anthropic fan in those areas.
+- 🧠 Interests:
+	- **Domain-Specialized AI Development**  
+	  Embedding deep problem-domain knowledge into model architectures and workflows to maximize efficiency and minimize energy footprint.
+	
+	- **PEFT Beyond NLP**  
+	  Applying LoRA/QLoRA/DoRA-style adapters in Computer Vision, GenAI (recommendation systems, RAG pipelines), and other modalities.
+	
+	- **Benchmarking & Evaluation Systems**  
+	  Designing end-to-end suites for rigorously comparing domain-specific models (accuracy, latency, resource cost).
+	
+	- **Novel Representation Learning**  
+	  Exploring vector stores, knowledge graphs, and hybrid/graph-neural approaches for rich, flexible knowledge encoding.
+	
+	- **Interpretability & Alignment**  
+	  Probing model decision paths, emergent behaviors, and safety mechanisms (long-term Anthropic-style inquiry).
+	
+	- **AI ↔ Cybersecurity Integration**  
+	  Securing ML pipelines (privacy, robustness) and embedding AI into security tooling (threat detection, anomaly analytics).
+	
+	- **3D Avatar & VRoid-Based Services**  
+	  Automating avatar generation workflows, integrating real-time facial motion capture (VSeeFace/VMagicMirror) with AI
+   
+	- **Computational Neuroscience & Brain-Signal ML**  
+	  Real-time joint/site detection; EEG/fMRI-driven models for harmful-activity prediction in medical contexts.
 
-	- Integration of AI and Cybersecurity:
-		- Whether it's the security/privacy of AI and its solutions or integration of AI in the cybersecurity domain itself.
+   
+
 
 ---
 
