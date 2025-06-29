@@ -106,13 +106,18 @@
 
 
 ---
-### 🕛 | Wakatime :
-<br>
-![Github Wakatime Stats][(https://github-readme-stats.vercel.app/api/wakatime?username=mozayed007)](https://github-readme-stats.vercel.app/api/wakatime?username=mozayed007)) 
-<br>
-<details>  
-<img src="https://wakatime.com/share/@mozayed007/59f67f85-010a-4267-a9e6-50a27326c520.svg" width="50%">
-</details> 
+### 🕛 WakaTime
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mozayed007" alt="WakaTime Stats" />
+</p>
+
+<details>
+  <summary>View detailed WakaTime dashboard</summary>
+  <p align="center">
+    <img src="https://wakatime.com/share/@mozayed007/59f67f85-010a-4267-a9e6-50a27326c520.svg" width="50%" alt="Detailed WakaTime Dashboard" />
+  </p>
+</details>
 
 ---
 ### :musical_note: | Spotify Status : 
@@ -134,7 +139,7 @@
 
 <h4> My Last Credly badges  </h4>
 
-To see all the other badges are [here](https://www.credly.com/users/mozayed007/badges)
+To see all the other badges, are [here](https://www.credly.com/users/mozayed007/badges)
 
 <!--START_SECTION:badges-->
 [![Introduction to Cybersecurity, Cisco](https://images.credly.com/size/120x120/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/487f1395-6ec1-454b-8463-040e0f407a19)
