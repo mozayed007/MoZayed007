@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/913eaa26-7695-425f-a514-73092d830d29)
  
   
 #  ![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=800&pause=1000&random=true&width=435&lines=+Hi+there!+I'm+MoZayed+%F0%9F%91%8B.)   **ヾ(￣ ▽ ￣)**                            
@@ -94,12 +94,12 @@
 &nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mozayed007&hide_border=true&theme=tokyo-night" alt="Activity Graph" width="66%"/>
 
-<br><br>
+<br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mozayed007&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)
 
 
-<br><br>
+<br>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=mozayed007&row=2&column=4&theme=onedark" alt="GitHub Trophies" width="80%" />
@@ -111,7 +111,8 @@
 ---
 ### 🕛 | Wakatime :
 <br>
-![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mozayed007) 
+![Github Wakatime Stats][(https://github-readme-stats.vercel.app/api/wakatime?username=mozayed007)](https://github-readme-stats.vercel.app/api/wakatime?username=mozayed007)) 
+<br>
 <details>  
 <img src="https://wakatime.com/share/@mozayed007/59f67f85-010a-4267-a9e6-50a27326c520.svg" width="50%">
 </details> 
