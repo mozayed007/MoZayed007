@@ -1,6 +1,3 @@
-![image](https://github.com/user-attachments/assets/913eaa26-7695-425f-a514-73092d830d29)
- 
-  
 #  ![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=800&pause=1000&random=true&width=435&lines=+Hi+there!+I'm+MoZayed+%F0%9F%91%8B.)   **ヾ(￣ ▽ ￣)**                            
 <p align="center"><img src="https://media3.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=6c09b952a8e228564cf075141862157a36423c7e667945cc&rid=giphy.gif&ct=s" width="150"/></p>
 
