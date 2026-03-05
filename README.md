@@ -87,7 +87,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozayed007&hide_border=true&theme=tokyonight" alt="Top Languages" width="30%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozayed007&hide_border=true&theme=tokyonight" alt="Top Languages" width="30%"/> -->
 &nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mozayed007&hide_border=true&theme=tokyo-night" alt="Activity Graph" width="66%"/>
 
