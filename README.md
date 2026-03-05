@@ -101,9 +101,9 @@
 ---
 ### 🕛 WakaTime
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mozayed007" alt="WakaTime Stats" />
-</p>
+</p> -->
 
 <details>
   <summary>View detailed WakaTime dashboard</summary>
