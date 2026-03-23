@@ -13,47 +13,30 @@
 </div>
 
 
+### :man_technologist: | About Me
 
+- 🌱 **Currently** a **Research Engineer** at Sprints AI, building production-grade multi-tenant AI Learning Companion platforms with agent workflows, hybrid RAG, and **neuroscience-inspired memory systems**.  
+  Parallelly conducting **independent memory research** through the LiveMem / THEN project — a stateful live memory extension that decouples model training from episodic memory ingestion and query-time recall.
 
-### :man_technologist: | About Me: 
+- 🛠️ With hands-on experience in **freelancing**, **online tutoring**, and **contractor roles**, I’ve delivered solutions across Machine Learning, Deep Learning, NLP, LLMs, autonomous agents, and production systems.
 
-<br />
+- 🧑🏻‍💻 Right now I’m experimenting with **PEFT** techniques (LoRA/QLoRA/DoRA) beyond NLP — applying them to Computer Vision, Generative AI (recommendation systems, RAG pipelines), benchmarking & evaluation frameworks, and novel data representation systems.  
+  *"To the vector store, or the knowledge graph… maybe both, maybe something entirely new."*
 
+### 🧠 Core Interests & Focus Areas
 
-	  
-- 🌱 I’m currently pursuing: Machine Learning Engineering, Research Engineering.
-  
-- 🛠  I've experienced  Freelancing,  Online Tutoring, and working on Machine/Deep Learning, NLP, and LLMs projects as a contractor.
-  
-- 🧑🏻‍💻Currently experimenting with PEFT algorithms in domains other than NLP like Computer Vision applications, GenAI applications (recommendation Sys, RAGs, ..etc.), benchmarking and evaluation systems for domain-specific problems, and representation systems for different types of data."To the vector store, or the knowledge graph, maybe both, maybe another novel representation".
-	  
-- 🧠 Interests:
-	- **Domain-Specialized AI Development**  
-	  Embedding deep problem-domain knowledge into model architectures and workflows to maximize efficiency and minimize energy footprint.
-	
-	- **PEFT Beyond NLP**  
-	  Applying LoRA/QLoRA/DoRA-style adapters in Computer Vision, GenAI (recommendation systems, RAG pipelines), and other modalities.
-	
-	- **Benchmarking & Evaluation Systems**  
-	  Designing end-to-end suites for rigorously comparing domain-specific models (accuracy, latency, resource cost).
-	
-	- **Novel Representation Learning**  
-	  Exploring vector stores, knowledge graphs, and hybrid/graph-neural approaches for rich, flexible knowledge encoding.
-	
-	- **Interpretability & Alignment**  
-	  Probing model decision paths, emergent behaviors, and safety mechanisms (long-term Anthropic-style inquiry).
-	
-	- **AI ↔ Cybersecurity Integration**  
-	  Securing ML pipelines (privacy, robustness) and embedding AI into security tooling (threat detection, anomaly analytics).
-	
-	- **3D Avatar & VRoid-Based Services**  
-	  Automating avatar generation workflows, integrating real-time facial motion capture (VSeeFace/VMagicMirror) with AI
-   
-	- **Computational Neuroscience & Brain-Signal ML**  
-	  Real-time joint/site detection; EEG/fMRI-driven models for harmful-activity prediction in medical contexts.
+- **Domain-Specialized AI Development** — Embedding deep problem-domain knowledge into model architectures and workflows to maximize efficiency and minimize energy footprint.
+- **PEFT Beyond NLP** — Extending LoRA-style adapters to Computer Vision, recommendation systems, RAG pipelines, and other modalities.
+- **Benchmarking & Evaluation Systems** — Designing end-to-end suites for rigorously comparing domain-specific models on accuracy, latency, resource cost, and robustness.
+- **Novel Representation & Memory Learning** — Exploring vector stores, knowledge graphs, hybrid approaches, and stateful live memory systems (LiveMem / THEN).
+- **Interpretability, Alignment & Safety** — Probing decision paths, emergent behaviors, and guardrails (long-term Anthropic-style inquiry).
+- **AI ↔ Cybersecurity Integration** — Securing ML pipelines (privacy, robustness) and embedding AI into security tooling.
+- **3D Avatar & VRoid-Based Services** — Automating avatar generation with real-time facial motion capture (VSeeFace/VMagicMirror).
+- **Computational Neuroscience & Brain-Signal ML** — EEG/fMRI-driven models for real-time detection and medical applications.
 
-   
+---
 
+Open to **research collaborations**, interesting problems, or deep discussions on **memory systems** and representation learning. Feel free to reach out!
 
 ---
 
@@ -76,7 +59,7 @@
 ---
 
  ### Contact me:
- [📝 Blog](https://mozayed007.github.io/mozayed-blog) | [🐦 X](https://x.com/MoZayed007) | [🤝 LinkedIn](https://www.linkedin.com/in/mozayed007/)<br /> 
+ [📝 Blog](https://mozayed007.github.io/mozayed-blog) | [🐦 X](https://x.com/MoZayed007) | [🤝 LinkedIn](https://www.linkedin.com/in/mozayed007/) | [⚙️Portfolio](https://portfolio.mo-zayed.com/) <br /> 
  - 📫 How to reach me : </br>
 	<p align="center " style="text-align: center;">   - 📧 Personal / Business  contact : moh.z.ahmed007@gmail.com </p>  </br> 
 	<p align="center" style="text-align: center;">    - 📧 Academic contact: s-mohamedzayed@zewailcity.edu.eg </p>  </br>
