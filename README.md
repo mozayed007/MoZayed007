@@ -43,19 +43,19 @@ Open to **research collaborations**, interesting problems, or deep discussions o
 ### 🛠️ Languages and Tools:
 
 #### 💻 Languages & OS
-<img src="https://skillicons.dev/icons?i=python,rust,cpp,nvidia,bash,linux" alt="Languages & OS" width="auto" height="42" />
+<img src="https://skillicons.dev/icons?i=python,rust,cpp,bash,linux" alt="Languages & OS" width="auto" height="42" />
 
 #### 🔥 ML / DL Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface,scikitlearn,pandas,numpy" alt="ML / DL Frameworks" width="auto" height="42" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface,sklearn,pandas,numpy" alt="ML / DL Frameworks & Libraries" width="auto" height="42" />
 
 #### 🤖 Modern AI Stack (LLMs, RAG & Agents)
 <a href="https://github.com/vllm-project/vllm" target="_blank" title="vLLM"><img src="https://github.com/vllm-project.png" alt="vLLM" width="42" height="42" style="border-radius: 6px;" /></a>&nbsp;<a href="https://github.com/sgl-project/sglang" target="_blank" title="SGLang"><img src="https://github.com/sgl-project.png" alt="SGLang" width="42" height="42" style="border-radius: 6px;" /></a>&nbsp;<a href="https://huggingface.co/" target="_blank" title="Hugging Face"><img src="https://github.com/huggingface.png" alt="Hugging Face" width="42" height="42" style="border-radius: 6px;" /></a>&nbsp;<a href="https://github.com/langchain-ai/langchain" target="_blank" title="LangChain"><img src="https://github.com/langchain-ai.png" alt="LangChain" width="42" height="42" style="border-radius: 6px;" /></a>&nbsp;<a href="https://qdrant.tech/" target="_blank" title="Qdrant"><img src="https://github.com/qdrant.png" alt="Qdrant" width="42" height="42" style="border-radius: 6px;" /></a>&nbsp;<a href="https://www.helix-db.com/" target="_blank" title="HelixDB"><img src="https://github.com/helixdb.png" alt="HelixDB" width="42" height="42" style="border-radius: 6px;" /></a>&nbsp;<a href="https://www.trychroma.com/" target="_blank" title="ChromaDB"><img src="https://github.com/chroma-core.png" alt="ChromaDB" width="42" height="42" style="border-radius: 6px;" /></a>
 
 #### ⚡ Backend & Orchestration
-<img src="https://skillicons.dev/icons?i=fastapi,redis,celery,postgres,pydantic,selenium" alt="Backend & Orchestration" width="auto" height="42" />
+<img src="https://skillicons.dev/icons?i=fastapi,redis,celery" alt="Backend & Orchestration" width="auto" height="42" />
 
 #### ☁️ Cloud, DevOps & Databases
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,postgres,git,vscode,github" alt="Cloud, DevOps & Databases" width="auto" height="42" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,postgres,git,github" alt="Cloud, DevOps & Databases" width="auto" height="42" />
 
 ---
 
