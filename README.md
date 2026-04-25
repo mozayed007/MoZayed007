@@ -43,34 +43,18 @@ Open to **research collaborations**, interesting problems, or deep discussions o
 ### :hammer_and_wrench: | Languages and Tools:
 
 #### 💻 Languages & OS
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-</p>
+<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></p>
 
 #### 🧠 Machine Learning & Data Science
-<p align="left">
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-</p>
+<p align="left"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a></p>
 
-#### 🤖 Modern AI Stack (LLMs & Serving)
-<p align="left">
-  <a href="https://github.com/vllm-project/vllm" target="_blank" rel="noreferrer"> <img src="https://github.com/vllm-project.png" alt="vLLM" width="40" height="40" style="border-radius: 5px;" /> </a> 
-  <a href="https://github.com/sgl-project/sglang" target="_blank" rel="noreferrer"> <img src="https://github.com/sgl-project.png" alt="sglang" width="40" height="40" style="border-radius: 5px;" /> </a> 
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://github.com/huggingface.png" alt="Hugging Face" width="40" height="40" style="border-radius: 5px;" /> </a>
-</p>
+#### 🤖 Modern AI Stack (LLMs, RAG & Agents)
+<p align="left"><a href="https://github.com/vllm-project/vllm" target="_blank" rel="noreferrer" title="vLLM"> <img src="https://github.com/vllm-project.png" alt="vLLM" width="40" height="40" style="border-radius: 5px;" /> </a> <a href="https://github.com/sgl-project/sglang" target="_blank" rel="noreferrer" title="SGLang"> <img src="https://github.com/sgl-project.png" alt="sglang" width="40" height="40" style="border-radius: 5px;" /> </a> <a href="https://huggingface.co/" target="_blank" rel="noreferrer" title="Hugging Face"> <img src="https://github.com/huggingface.png" alt="Hugging Face" width="40" height="40" style="border-radius: 5px;" /> </a> <a href="https://github.com/langchain-ai/langchain" target="_blank" rel="noreferrer" title="LangChain"> <img src="https://github.com/langchain-ai.png" alt="LangChain" width="40" height="40" style="border-radius: 5px;" /> </a> <a href="https://qdrant.tech/" target="_blank" rel="noreferrer" title="Qdrant"> <img src="https://github.com/qdrant.png" alt="Qdrant" width="40" height="40" style="border-radius: 5px;" /> </a> <a href="https://www.helix-db.com/" target="_blank" rel="noreferrer" title="HelixDB"> <img src="https://github.com/helixdb.png" alt="HelixDB" width="40" height="40" style="border-radius: 5px;" /> </a> <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer" title="ChromaDB"> <img src="https://github.com/chroma-core.png" alt="ChromaDB" width="40" height="40" style="border-radius: 5px;" /> </a></p>
 
 #### 🛠️ Developer Tools & Databases
-<p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" alt="GitHub" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> </a>
-</p>
+<p align="left"><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" alt="GitHub" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> </a></p>
+
+
 ---
 
  ### Contact me:
