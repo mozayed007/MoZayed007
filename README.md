@@ -40,19 +40,50 @@ Open to **research collaborations**, interesting problems, or deep discussions o
 
 ---
 
-### :hammer_and_wrench: | Languages and Tools:
+### 🛠️ Languages and Tools:
 
 #### 💻 Languages & OS
-<a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40" /></a>&nbsp;<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40" /></a>&nbsp;<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40" /></a>
+<a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="42" height="42" /></a>&nbsp;
+<a href="https://www.rust-lang.org" target="_blank"><img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="42" height="42" /></a>&nbsp;
+<a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="42" height="42" /></a>&nbsp;
+<a href="https://developer.nvidia.com/triton-inference-server" target="_blank"><img src="https://skillicons.dev/icons?i=nvidia" alt="Triton" width="42" height="42" /></a>&nbsp;
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="42" height="42" /></a>&nbsp;
+<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="42" height="42" /></a>
 
-#### 🧠 Machine Learning & Data Science
-<a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40" /></a>&nbsp;<a href="https://www.tensorflow.org" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40" /></a>&nbsp;<a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" alt="scikit_learn" width="40" height="40" /></a>&nbsp;<a href="https://pandas.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pandas" alt="pandas" width="40" height="40" /></a>
+#### 🔥 ML / DL Frameworks & Libraries
+<a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="42" height="42" /></a>&nbsp;
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="42" height="42" /></a>&nbsp;
+<a href="https://huggingface.co/" target="_blank"><img src="https://skillicons.dev/icons?i=huggingface" alt="Hugging Face" width="42" height="42" /></a>&nbsp;
+<a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=scikitlearn" alt="Scikit-Learn" width="42" height="42" /></a>&nbsp;
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="42" height="42" /></a>&nbsp;
+<a href="https://numpy.org/" target="_blank"><img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" width="42" height="42" /></a>
 
 #### 🤖 Modern AI Stack (LLMs, RAG & Agents)
-<a href="https://github.com/vllm-project/vllm" target="_blank" title="vLLM"><img src="https://github.com/vllm-project.png" alt="vLLM" width="40" height="40" style="border-radius: 5px;" /></a>&nbsp;<a href="https://github.com/sgl-project/sglang" target="_blank" title="SGLang"><img src="https://github.com/sgl-project.png" alt="sglang" width="40" height="40" style="border-radius: 5px;" /></a>&nbsp;<a href="https://huggingface.co/" target="_blank" title="Hugging Face"><img src="https://github.com/huggingface.png" alt="Hugging Face" width="40" height="40" style="border-radius: 5px;" /></a>&nbsp;<a href="https://github.com/langchain-ai/langchain" target="_blank" title="LangChain"><img src="https://github.com/langchain-ai.png" alt="LangChain" width="40" height="40" style="border-radius: 5px;" /></a>&nbsp;<a href="https://qdrant.tech/" target="_blank" title="Qdrant"><img src="https://github.com/qdrant.png" alt="Qdrant" width="40" height="40" style="border-radius: 5px;" /></a>&nbsp;<a href="https://www.helix-db.com/" target="_blank" title="HelixDB"><img src="https://github.com/helixdb.png" alt="HelixDB" width="40" height="40" style="border-radius: 5px;" /></a>&nbsp;<a href="https://www.trychroma.com/" target="_blank" title="ChromaDB"><img src="https://github.com/chroma-core.png" alt="ChromaDB" width="40" height="40" style="border-radius: 5px;" /></a>
+<a href="https://github.com/vllm-project/vllm" target="_blank" title="vLLM"><img src="https://github.com/vllm-project.png" alt="vLLM" width="42" height="42" style="border-radius: 6px;" /></a>&nbsp;
+<a href="https://github.com/sgl-project/sglang" target="_blank" title="SGLang"><img src="https://github.com/sgl-project.png" alt="SGLang" width="42" height="42" style="border-radius: 6px;" /></a>&nbsp;
+<a href="https://huggingface.co/" target="_blank" title="Hugging Face"><img src="https://github.com/huggingface.png" alt="Hugging Face" width="42" height="42" style="border-radius: 6px;" /></a>&nbsp;
+<a href="https://github.com/langchain-ai/langchain" target="_blank" title="LangChain"><img src="https://github.com/langchain-ai.png" alt="LangChain" width="42" height="42" style="border-radius: 6px;" /></a>&nbsp;
+<a href="https://qdrant.tech/" target="_blank" title="Qdrant"><img src="https://github.com/qdrant.png" alt="Qdrant" width="42" height="42" style="border-radius: 6px;" /></a>&nbsp;
+<a href="https://www.helix-db.com/" target="_blank" title="HelixDB"><img src="https://github.com/helixdb.png" alt="HelixDB" width="42" height="42" style="border-radius: 6px;" /></a>&nbsp;
+<a href="https://www.trychroma.com/" target="_blank" title="ChromaDB"><img src="https://github.com/chroma-core.png" alt="ChromaDB" width="42" height="42" style="border-radius: 6px;" /></a>
 
-#### 🛠️ Developer Tools & Databases
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="40" height="40" /></a>&nbsp;<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40" /></a>&nbsp;<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" /></a>&nbsp;<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" /></a>
+#### ⚡ Backend & Orchestration
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="42" height="42" /></a>&nbsp;
+<a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="42" height="42" /></a>&nbsp;
+<a href="https://docs.celeryq.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=celery" alt="Celery" width="42" height="42" /></a>&nbsp;
+<a href="https://www.sqlalchemy.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="SQLAlchemy" width="42" height="42" /></a>&nbsp;
+<a href="https://pydantic.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=pydantic" alt="Pydantic" width="42" height="42" /></a>&nbsp;
+<a href="https://www.selenium.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="42" height="42" /></a>
+
+#### ☁️ Cloud, DevOps & Databases
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="42" height="42" /></a>&nbsp;
+<a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="42" height="42" /></a>&nbsp;
+<a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="42" height="42" /></a>&nbsp;
+<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="42" height="42" /></a>&nbsp;
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="42" height="42" /></a>&nbsp;
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="42" height="42" /></a>&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="42" height="42" /></a>&nbsp;
+<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="42" height="42" /></a>
 
 ---
 
