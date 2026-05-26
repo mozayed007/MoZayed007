@@ -85,16 +85,11 @@ Open to **research collaborations**, interesting problems, or deep discussions o
 ---
 ### 🕛 WakaTime
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mozayed007" alt="WakaTime Stats" />
-</p> -->
+[![wakatime](https://wakatime.com/badge/user/9346b21b-394f-4c0b-84fa-45c6f0321a29.svg)](https://wakatime.com/@9346b21b-394f-4c0b-84fa-45c6f0321a29)
 
-<details>
-  <summary>View detailed WakaTime dashboard</summary>
-  <p align="center">
-    <img src="https://wakatime.com/share/@mozayed007/59f67f85-010a-4267-a9e6-50a27326c520.svg" width="50%" alt="Detailed WakaTime Dashboard" />
-  </p>
-</details>
+<figure><embed src="https://wakatime.com/share/@mozayed007/e760be9a-f792-4db0-a082-8b4c8816c239.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@mozayed007/cb4dda39-f032-4310-b562-5ca26a5ebcd2.svg"></embed></figure>
 
 ---
 
