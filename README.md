@@ -28,7 +28,7 @@
 - **Domain-Specialized AI Development** — Embedding deep problem-domain knowledge into model architectures and workflows to maximize efficiency and minimize energy footprint.
 - **PEFT Beyond NLP** — Extending LoRA-style adapters to Computer Vision, recommendation systems, RAG pipelines, and other modalities.
 - **Benchmarking & Evaluation Systems** — Designing end-to-end suites for rigorously comparing domain-specific models on accuracy, latency, resource cost, and robustness.
-- **Novel Representation & Memory Learning** — Exploring vector stores, knowledge graphs, hybrid approaches, and stateful live memory systems (LiveMem / THEN).
+- **Novel Representation & Memory Learning** — Exploring vector stores, knowledge graphs, hybrid approaches, and stateful live memory systems ([LiveMem / THEN](https://github.com/mozayed007/THEN-nano)).
 - **Interpretability, Alignment & Safety** — Probing decision paths, emergent behaviors, and guardrails (long-term Anthropic-style inquiry).
 - **AI ↔ Cybersecurity Integration** — Securing ML pipelines (privacy, robustness) and embedding AI into security tooling.
 - **3D Avatar & VRoid-Based Services** — Automating avatar generation with real-time facial motion capture (VSeeFace/VMagicMirror).
